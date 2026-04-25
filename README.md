@@ -168,14 +168,9 @@ ecommerce-db-postgresql/
 - **Business Intelligence** — Aggregation, grouping, analytical reporting
 - **Documentation** — Technical writing and project documentation
 
----
 
-## Author
 
-**Rijan**  
-IT Officer & Computing Student  
-📍 Kathmandu, Nepal  
-🔗 [GitHub](https://github.com/YOUR_USERNAME)
+
 
 ---
 
