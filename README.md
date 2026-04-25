@@ -3,7 +3,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/Language-SQL%20%2F%20PL%2FpgSQL-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 A fully normalised relational database system for an online store, built with **PostgreSQL**. The project covers schema design, data integrity, automated business logic via triggers, and analytical SQL queries for reporting.
 
