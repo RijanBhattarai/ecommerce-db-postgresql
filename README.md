@@ -174,4 +174,4 @@ ecommerce-db-postgresql/
 
 ---
 
-*This project was built as part of a portfolio to demonstrate database engineering skills for professional and academic purposes.*
+*This project was built as part of a portfolio to demonstrate database engineering skills for academic purposes.*
